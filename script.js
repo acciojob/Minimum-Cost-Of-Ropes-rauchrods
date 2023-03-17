@@ -21,5 +21,4 @@ function calculateMinCost() {
 
     document.querySelector("#result").innerHTML=mincost;
   
-  
 }  
